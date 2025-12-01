@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related rested APIs "
+  message: "Welcome to EazyBank accounts related hook APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
